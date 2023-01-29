@@ -1,7 +1,8 @@
-[Ссылка на игру](https://alexeysay.github.io/Dialog-Game.github.io/)
 <h1 align="center"> Dialog-Game </h1>
 
 ![demo photo](demo.png)
+
+[Ссылка на игру](https://qumico.github.io/Dialog-game/)
 
 ## Мотивация: Было скучно
 
